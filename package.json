@@ -1,6 +1,6 @@
 {
   "name": "virtual-dom-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stream a virtual-dom tree as HTML",
   "main": "index.js",
   "scripts": {
