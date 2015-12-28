@@ -43,6 +43,7 @@ Render a `virtual-dom` tree of `h` nodes to a readable stream.
 - [bankai][13]
 - [hyperstream][14]
 - [virtual-html][15]
+- [virtual-widget][16]
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
@@ -63,3 +64,4 @@ Render a `virtual-dom` tree of `h` nodes to a readable stream.
 [13]: https://github.com/yoshuawuyts/bankai
 [14]: https://github.com/substack/hyperstream
 [15]: https://github.com/yoshuawuyts/virtual-html
+[16]: https://github.com/yoshuawuyts/virtual-widget
